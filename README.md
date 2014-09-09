@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-basic repository
+Changing the tex, figuring it out
